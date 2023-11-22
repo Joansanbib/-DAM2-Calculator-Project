@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">ProjecteCalculadora</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+    <string name="coma">,</string>
+    <string name="limpiado">CE</string>
+    <string name="borrar">⌫</string>
+    <string name="or">"OR"</string>
+    <string name="plata">SILVER</string>
+    <string name="platino">PLATINIUM</string>
+    <string name="coure">COPPER</string>
+    <string name="cotitzacio">QUOTE</string>
+    <string name="wrong_coma">Incorrect comma. Invalid number</string>
+    <string name="cotitz_material">QUOTATION FOR</string>
+    <string name="valorsNumerics">Enter only numeric values</string>
+    <string name="wrongConversio">Incorrect conversion</string>
+    <string name="input">Enter the price/g</string>
+    <string name="aceptar">ACCEPT</string>
+    <string name="errSelectMat">Choose a material first</string>
+
+
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Boto">
+        <item name="android:backgroundTint">@color/cyan</item>
+        <item name="android:buttonCornerRadius">0dp</item>
+    </style>
+</resources>

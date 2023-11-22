@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="num1">1</string>
+        <string name="num2">2</string>
+        <string name="num3">3</string>
+        <string name="num4">4</string>
+        <string name="num5">5</string>
+        <string name="num6">6</string>
+        <string name="num7">7</string>
+        <string name="num8">8</string>
+        <string name="num9">9</string>
+        <string name="num0">0</string>
+        <string name="coma">,</string>
+        <string name="limpiado">CE</string>
+        <string name="borrar">⌫</string>
+        <string name="or">"ORO"</string>
+        <string name="plata">ARGENT</string>
+        <string name="platino">PLATINE</string>
+        <string name="coure">CUIVRE</string>
+        <string name="cotitzacio">CITATION</string>
+        <string name="wrong_coma">Mauvaise virgule. Numéro invalide</string>
+        <string name="cotitz_material">CITATION POUR</string>
+        <string name="valorsNumerics">Entrez uniquement des valeurs numériques</string>
+        <string name="wrongConversio">Mauvaise conversion</string>
+        <string name="input">Entrez le prix/g</string>
+        <string name="aceptar">ACCEPTER</string>
+        <string name="errSelectMat">Choisissez d"abord un matériau</string>
+    </resources>

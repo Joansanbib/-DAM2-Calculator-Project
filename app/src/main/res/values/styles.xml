@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="nouEstil" parent="Widget.MaterialComponents.Button.TextButton">
+            <item name="android:backgroundTint">@color/light_gray</item>
+            <item name="android:layout_width">0dp</item>
+            <item name="android:layout_height">0dp</item>
+            <item name="android:insetLeft">5dp</item>
+            <item name="android:insetRight">5dp</item>
+            <item name="android:insetTop">5dp</item>
+            <item name="android:insetBottom">5dp</item>
+            <item name="borderRound">0dp</item>
+            <item name="android:textSize">40dp</item>
+            <item name="android:textColor">@color/light_black</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+    <style name="nouEstil2" parent="Widget.MaterialComponents.Button.TextButton">
+            <item name="android:backgroundTint">@color/newOrange2</item>
+            <item name="android:layout_width">0dp</item>
+            <item name="android:layout_height">0dp</item>
+            <item name="android:insetLeft">5dp</item>
+            <item name="android:insetRight">5dp</item>
+            <item name="android:insetTop">5dp</item>
+            <item name="android:insetBottom">5dp</item>
+            <item name="borderRound">0dp</item>
+            <item name="android:textSize">32dp</item>
+            <item name="android:textColor">@color/light_black</item>
+            <item name="android:gravity">center</item>
+
+    </style>
+    <style name="nouEstil3" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:backgroundTint">@color/orange</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="borderRound">0dp</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="txtView1" parent="Widget.AppCompat.TextView">
+        <item name="android:background">@color/black</item>
+        <item name="android:backgroundTint">@color/newGray</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="borderRound">0dp</item>
+
+    </style>
+    <style name="resultTemporal1">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="horitzonatlGuideLine">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+
+    </style>
+    <style name="verticalGuideLine">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="btnAceptar" parent="nouEstil3">
+        <item name="android:backgroundTint">@color/light_blue</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>
